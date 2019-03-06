@@ -9,10 +9,11 @@ namespace LogAn.UnitTests
         [Test]
         public void IsValidLogFileName_WrongExtension_ReturnsFalse()
         {
+            //Arrange - подготовка объекта
             LogAnalyzer analyzer = new LogAnalyzer();
-
+            //Act - воздействие на объект
             bool result = analyzer.IsValidLogFileName("filewithbadextension.foo");
-
+            //Assert - утверждение об ожидаемом результате
             Assert.False(result);
         }
 
