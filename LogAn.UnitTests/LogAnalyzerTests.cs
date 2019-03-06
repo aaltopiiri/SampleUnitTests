@@ -18,11 +18,21 @@ namespace LogAn.UnitTests
         }
 
         [Test]
-        public void IsValidLogFileName_RightExtension_ReturnsTrue()
+        public void IsValidLogFileName_RightExtensionUppercase_ReturnsTrue()
         {
             LogAnalyzer analyzer = new LogAnalyzer();
 
             bool result = analyzer.IsValidLogFileName("filewithbadextension.SLF");
+
+            Assert.True(result);
+        }
+
+        [Test]
+        public void IsValidLogFileName_RightExtensionLowercase_ReturnsTrue()
+        {
+            LogAnalyzer analyzer = new LogAnalyzer();
+
+            bool result = analyzer.IsValidLogFileName("filewithbadextension.slf");
 
             Assert.True(result);
         }
