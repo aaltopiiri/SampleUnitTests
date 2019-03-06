@@ -7,7 +7,7 @@ namespace LogAn.UnitTests
     public class LogAnalyzerTests
     {
         [Test]
-        public void IsValidLogFileName_WrongExtension_ReturnsFalse()
+        public void IsValidLogFileName_BadExtension_ReturnsFalse()
         {
             //Arrange - подготовка объекта
             LogAnalyzer analyzer = new LogAnalyzer();
@@ -18,21 +18,21 @@ namespace LogAn.UnitTests
         }
 
         [Test]
-        public void IsValidLogFileName_RightExtensionUppercase_ReturnsTrue()
+        public void IsValidLogFileName_GoodExtensionUppercase_ReturnsTrue()
         {
             LogAnalyzer analyzer = new LogAnalyzer();
 
-            bool result = analyzer.IsValidLogFileName("filewithbadextension.SLF");
+            bool result = analyzer.IsValidLogFileName("filewithgoodextension.SLF");
 
             Assert.True(result);
         }
 
         [Test]
-        public void IsValidLogFileName_RightExtensionLowercase_ReturnsTrue()
+        public void IsValidLogFileName_GoodExtensionLowercase_ReturnsTrue()
         {
             LogAnalyzer analyzer = new LogAnalyzer();
 
-            bool result = analyzer.IsValidLogFileName("filewithbadextension.slf");
+            bool result = analyzer.IsValidLogFileName("filewithgoodextension.slf");
 
             Assert.True(result);
         }
