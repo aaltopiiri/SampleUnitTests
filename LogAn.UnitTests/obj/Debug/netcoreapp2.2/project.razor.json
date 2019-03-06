@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "/Users/etc/Projects/Sample/LogAn.UnitTests/LogAn.UnitTests.csproj",
+  "ProjectFilePath": "/Users/nin/Projects/SampleUnitTests/LogAn.UnitTests/LogAn.UnitTests.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

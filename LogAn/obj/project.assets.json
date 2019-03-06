@@ -30,11 +30,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "Ix9/K47+fNaL8XNVujnLaqT8kHWB2MFogbaSGVF3RSGtzTB7SnO6xJLLK0v+iyQiCxSGzM5QMZh8+xh7YXNArA==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -178,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/etc/.nuget/packages/": {},
+    "/Users/nin/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/etc/Projects/Sample/LogAn/LogAn.csproj",
+      "projectUniqueName": "/Users/nin/Projects/SampleUnitTests/LogAn/LogAn.csproj",
       "projectName": "LogAn",
-      "projectPath": "/Users/etc/Projects/Sample/LogAn/LogAn.csproj",
-      "packagesPath": "/Users/etc/.nuget/packages/",
-      "outputPath": "/Users/etc/Projects/Sample/LogAn/obj/",
+      "projectPath": "/Users/nin/Projects/SampleUnitTests/LogAn/LogAn.csproj",
+      "packagesPath": "/Users/nin/.nuget/packages/",
+      "outputPath": "/Users/nin/Projects/SampleUnitTests/LogAn/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/etc/.nuget/NuGet/NuGet.Config"
+        "/Users/nin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
