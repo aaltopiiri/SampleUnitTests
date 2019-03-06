@@ -1,0 +1,17 @@
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.UnitTests.deps.json
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.UnitTests.runtimeconfig.json
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.UnitTests.runtimeconfig.dev.json
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.UnitTests.dll
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.UnitTests.pdb
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.dll
+/Users/etc/Projects/Sample/LogAn.UnitTests/bin/Debug/netcoreapp2.2/LogAn.pdb
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.csprojAssemblyReference.cache
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.csproj.CoreCompileInputs.cache
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.AssemblyInfoInputs.cache
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.AssemblyInfo.cs
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.csproj.CopyComplete
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.dll
+/Users/etc/Projects/Sample/LogAn.UnitTests/obj/Debug/netcoreapp2.2/LogAn.UnitTests.pdb

@@ -1,0 +1,9 @@
+/Users/etc/Projects/Sample/LogAn/bin/Debug/netstandard2.0/LogAn.deps.json
+/Users/etc/Projects/Sample/LogAn/bin/Debug/netstandard2.0/LogAn.dll
+/Users/etc/Projects/Sample/LogAn/bin/Debug/netstandard2.0/LogAn.pdb
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.csproj.CoreCompileInputs.cache
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.AssemblyInfoInputs.cache
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.AssemblyInfo.cs
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.dll
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.pdb
+/Users/etc/Projects/Sample/LogAn/obj/Debug/netstandard2.0/LogAn.csprojAssemblyReference.cache
