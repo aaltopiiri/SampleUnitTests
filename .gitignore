@@ -4,6 +4,7 @@ Makefile.in
 *.usertasks
 config.make
 config.status
+nunit_random_seed.tmp
 aclocal.m4
 install-sh
 autom4te.cache/
