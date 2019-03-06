@@ -10,9 +10,9 @@
 /Users/nin/Projects/SampleUnitTests/LogAn/bin/Debug/netstandard2.0/LogAn.deps.json
 /Users/nin/Projects/SampleUnitTests/LogAn/bin/Debug/netstandard2.0/LogAn.dll
 /Users/nin/Projects/SampleUnitTests/LogAn/bin/Debug/netstandard2.0/LogAn.pdb
-/Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.csprojAssemblyReference.cache
 /Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.csproj.CoreCompileInputs.cache
 /Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.AssemblyInfoInputs.cache
 /Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.AssemblyInfo.cs
 /Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.dll
 /Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.pdb
+/Users/nin/Projects/SampleUnitTests/LogAn/obj/Debug/netstandard2.0/LogAn.csprojAssemblyReference.cache

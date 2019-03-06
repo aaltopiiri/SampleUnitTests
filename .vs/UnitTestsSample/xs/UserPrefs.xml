@@ -1,29 +1,9 @@
 ﻿<Properties StartupConfiguration="{DAD67F9C-FB19-43E1-BD00-2D14313187CE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LogAn/LogAnalyzer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogAn.UnitTests/LogAnalyzerTests.cs">
     <Files>
       <File FileName="LogAn/LogAnalyzer.cs" Line="20" Column="2" />
-      <File FileName="LogAn.UnitTests/LogAnalyzerTests.cs" Line="19" Column="2" />
+      <File FileName="LogAn.UnitTests/LogAnalyzerTests.cs" Line="21" Column="49" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="UnitTestsSample" selected="True" />
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="UnitTestsSample" expanded="True" selected="True">
-            <Node name="LogAn.UnitTests" expanded="True">
-              <Node name="LogAn" expanded="True">
-                <Node name="UnitTests" expanded="True">
-                  <Node name="LogAnalyzerTests" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.LogAn.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
