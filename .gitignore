@@ -86,17 +86,30 @@ $RECYCLE.BIN/
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-build/
+/LogAn/[Dd]ebug/
+/LogAn/[Dd]ebugPublic/
+/LogAn/[Rr]elease/
+/LogAn/[Rr]eleases/
+/LogAn/x64/
+/LogAn/x86/
+/LogAn/bld/
+/LogAn/[Bb]in/
+/LogAn/[Oo]bj/
+/LogAn/[Ll]og/
+/LogAn/[Bb]uild/
+
+# Build results
+/LogAn.UnitTests/[Dd]ebug/
+/LogAn.UnitTests/[Dd]ebugPublic/
+/LogAn.UnitTests/[Rr]elease/
+/LogAn.UnitTests/[Rr]eleases/
+/LogAn.UnitTests/x64/
+/LogAn.UnitTests/x86/
+/LogAn.UnitTests/bld/
+/LogAn.UnitTests/[Bb]in/
+/LogAn.UnitTests/[Oo]bj/
+/LogAn.UnitTests/[Ll]og/
+/LogAn.UnitTests/[Bb]uild/
 
 
 # Visual Studio 2015/2017 cache/options directory
